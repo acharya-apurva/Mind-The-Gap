@@ -13,3 +13,6 @@ How to run from shell window:
 3) Enter javac *.java
 4) Enter java Driver 
 5) When the game runs, click on New Game to begin.  Take turns to select a square until a winner is announced.  Click on 'New Game' to start a new game at any time.
+
+## Author
+Apurva Acharya
